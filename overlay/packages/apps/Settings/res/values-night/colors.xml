@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
+
+    <color name="search_bar_background">@*android:color/surface_dark_alpha_60</color>
+
+</resources>
