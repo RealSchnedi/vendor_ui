@@ -10,4 +10,6 @@
     <color name="custom_arrow_bg">@*android:color/system_neutral1_900</color>
     <color name="custom_arrow_home">@*android:color/surface_dark_alpha_60</color>
 
+    <color name="custom_category">@*android:color/system_neutral1_700</color>
+
 </resources>
