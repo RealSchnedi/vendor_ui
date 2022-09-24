@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+           xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="development_settings_title" msgid="140296922921597393">"Opciones de desarrollo"</string>
+    <string name="development_settings_enable" msgid="4285094651288242183">"Habilitar opciones de desarrollo"</string>
+    <string name="development_settings_not_available" msgid="355070198089140951">"Las opciones de desarrollo no están disponibles para este usuario"</string>
+
+</resources>

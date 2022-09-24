@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <plurals name="show_dev_countdown" formatted="false" msgid="1646187747875476269">
+      <item quantity="other">Estás a <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> pasos de desbloquear las opciones de desarrollo</item>
+      <item quantity="one">Estás a <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> paso de desbloquear las opciones de desarrollo</item>
+    </plurals>
+    <string name="show_dev_on" msgid="2840850085134853754">"¡Ahora están activadas las opciones de desarrollo!"</string>
+    <string name="show_dev_already" msgid="7041756429707644630">"Las opciones de desarrollo ya están activadas"</string>
+    <string name="dev_settings_disabled_warning" msgid="6971867026249671244">"Habilita primero las opciones de desarrollo"</string>
+    <string name="accelerometer_title" msgid="7745991950833748909">"Giro automático"</string>
+    <string name="screen_resolution_title" msgid="2690518693139811486">"Resolución"</string>
+    <string name="auto_brightness_title" msgid="4239324728760986697">"Brillo automático"</string>
+    <string name="auto_brightness_description" msgid="6807117118142381193">"El brillo de la pantalla se ajustará automáticamente según el entorno y lo que hagas. Puedes mover la barra del brillo para que la función aprenda tus preferencias"</string>
+    <string name="peak_refresh_rate_title" msgid="1878771412897140903">"Tasa de refresco"</string>
+    <string name="peak_refresh_rate_summary" msgid="1527087897198455042">"Aumenta la tasa de refresco de 60 a 120 Hz en determinados tipos de contenido"</string>
+    <string name="screen_timeout" msgid="7709947617767439410">"Tiempo de espera"</string>
+    <string name="security_patch" msgid="4071756145347865382">"Actualización de seguridad"</string>
+    <string name="accessibility_vibration_settings_title" msgid="936301142478631993">"Vibración"</string>
+    <string name="accessibility_vibration_primary_switch_title" msgid="6162579254864450592">"Usar vibración"</string>
+    <string name="accessibility_text_reading_options_title" msgid="3224648909213325563">"Tamaño y texto"</string>
+    <string name="fullbackup_data_summary" msgid="971587401251601473">"Realiza una copia de seguridad automática de los datos del dispositivo (como las contraseñas de redes Wi-Fi y el historial de llamadas) y de los datos de las aplicaciones (como sus ajustes y archivos guardados) de forma remota.\n\nAl activar la copia de seguridad automática, los datos del dispositivo y de las aplicaciones se guardan periódicamente de forma remota. Los datos de las aplicaciones pueden ser cualquier tipo de información que guarden (en función de los ajustes de desarrollo), incluidos los datos que pueden ser confidenciales (como contactos, mensajes y fotos)"</string>
+    <string name="media_volume_option_title" msgid="5966569685119475630">"Volumen multimedia"</string>
+    <string name="vibrate_icon_title" msgid="1281100105045362530">"Icono en modo vibración"</string>
+    <string name="ringtone_title" msgid="3271453110387368088">"Tono de llamada"</string>
+    <string name="notification_ringtone_title" msgid="6924501621312095512">"Tono de notificación"</string>
+    <string name="alarm_ringtone_title" msgid="6680761007731764726">"Tono de alarma"</string>
+    <string name="snooze_options_title" msgid="2109795569568344617">"Posponer las notificaciones"</string>
+    <string name="silent_notifications_status_bar" msgid="6113307620588767516">"Ocultar notificaciones silenciosas en la barra de estado"</string>
+    <string name="auto_sync_account_title" msgid="1070908045600374254">"Sincronizar datos de aplicaciones"</string>
+    <string name="financed_privacy_developer_options" msgid="7602001474669831672">"Usar opciones de desarrollo"</string>
+    <string name="autofill_reset_developer_options_complete" msgid="1276741935956594965">"Se ha restablecido la opción de autocompletar las opciones de desarrollo"</string>
+    <string name="developer_options_main_switch_title" msgid="1720074589554152501">"Usar opciones de desarrollo"</string>
+    <string name="night_light_main_switch_title" msgid="3428298022467805219">"Usar luz nocturna"</string>
+    <string name="adaptive_brightness_main_switch_title" msgid="2681666805191642737">"Usar brillo automático"</string>
+
+</resources>
