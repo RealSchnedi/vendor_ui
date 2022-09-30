@@ -39,4 +39,8 @@
         <item name="*android:dotColor">?android:attr/textColorPrimary</item>
     </style>
 
+    <style name="Theme.SystemUI.QuickSettings" parent="@*android:style/Theme.DeviceDefault">
+        <item name="offStateColor">@*android:color/surface_dark_alpha_45</item>
+    </style>
+
 </resources>
