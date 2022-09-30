@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+       android:inset="@dimen/action_bar_content_inset_material">
+    <shape android:shape="rectangle">
+        <corners android:radius="@dimen/config_dialogCornerRadius" />
+        <solid android:color="?attr/colorBackgroundFloating" />
+    </shape>
+</inset>
