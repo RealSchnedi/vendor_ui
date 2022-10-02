@@ -4,4 +4,6 @@
 
     <color name="search_bar_background">@*android:color/surface_dark_alpha_60</color>
 
+    <color name="cardpreference_bg">@*android:color/surface_dark_alpha_60</color>
+
 </resources>
