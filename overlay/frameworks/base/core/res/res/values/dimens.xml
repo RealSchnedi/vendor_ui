@@ -8,4 +8,6 @@
     <dimen name="system_app_widget_background_radius">@dimen/config_dialogCornerRadius</dimen>
     <dimen name="system_app_widget_inner_radius">@dimen/config_dialogCornerRadius</dimen>
 
+    <dimen name="toast_elevation">0dp</dimen>
+
 </resources>
