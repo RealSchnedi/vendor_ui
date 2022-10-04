@@ -5,4 +5,6 @@
 
     <color name="keyguard_shadow_color">@*android:color/transparent</color>
 
+    <color name="notification_bg">@*android:color/system_neutral1_50</color>
+
 </resources>
