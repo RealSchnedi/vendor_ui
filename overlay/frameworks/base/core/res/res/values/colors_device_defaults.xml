@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary_device_default_light">@color/surface_highlight_light</color>
+
+    <color name="accent_device_default_light">@color/system_accent1_400</color>
+    <color name="accent_device_default_dark">@color/system_accent1_400</color>
+    <color name="accent_primary_device_default">@color/system_accent1_400</color>
+    <color name="accent_primary_variant_light_device_default">@color/system_accent1_400</color>
+    <color name="accent_primary_variant_dark_device_default">@color/system_accent1_400</color>
+
+    <color name="background_device_default_light">@color/surface_highlight_light</color>
+
+</resources>
