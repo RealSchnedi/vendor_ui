@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="settingslib_switch_bar_radius">@*android:dimen/config_dialogCornerRadius</dimen>
+
+</resources>

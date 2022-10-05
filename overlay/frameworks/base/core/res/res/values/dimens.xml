@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dialog_corner_radius">@dimen/config_dialogCornerRadius</dimen>
+    <dimen name="notification_action_button_radius">@dimen/config_dialogCornerRadius</dimen>
+    <dimen name="autofill_dialog_corner_radius">@dimen/config_dialogCornerRadius</dimen>
+    <dimen name="chooser_corner_radius">@dimen/config_dialogCornerRadius</dimen>
+    <dimen name="system_app_widget_background_radius">@dimen/config_dialogCornerRadius</dimen>
+    <dimen name="system_app_widget_inner_radius">@dimen/config_dialogCornerRadius</dimen>
+
+</resources>

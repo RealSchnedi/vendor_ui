@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="panel_corner_radius">@*android:dimen/config_dialogCornerRadius</dimen>
+    <dimen name="search_bar_corner_radius">@*android:dimen/config_dialogCornerRadius</dimen>
+    <dimen name="homepage_preference_corner_radius">@*android:dimen/config_dialogCornerRadius</dimen>
+    <dimen name="homepage_app_bar_corner_radius">@*android:dimen/config_dialogCornerRadius</dimen>
+    <dimen name="settings_panel_corner_radius">@*android:dimen/config_dialogCornerRadius</dimen>
+    <dimen name="dream_item_corner_radius">@*android:dimen/config_dialogCornerRadius</dimen>
+
+</resources>
