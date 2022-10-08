@@ -6,4 +6,7 @@
 
     <color name="settingslib_progress_horizontal">@*android:color/surface_dark_alpha_60</color>
 
+    <color name="settingslib_state_on_color">@*android:color/surface_dark_alpha_60</color>
+    <color name="settingslib_state_off_color">@*android:color/surface_dark_alpha_60</color>
+
 </resources>

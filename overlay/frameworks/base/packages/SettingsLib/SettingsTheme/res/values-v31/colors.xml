@@ -9,4 +9,7 @@
 
     <color name="settingslib_progress_horizontal">@*android:color/accent_alpha_15</color>
 
+    <color name="settingslib_state_on_color">@*android:color/accent_alpha_15</color>
+    <color name="settingslib_state_off_color">@*android:color/accent_alpha_15</color>
+
 </resources>
