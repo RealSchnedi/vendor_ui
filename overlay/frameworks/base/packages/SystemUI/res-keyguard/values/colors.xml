@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="kg_emergency_button">@*android:color/accent_alpha_15</color>
+
+</resources>

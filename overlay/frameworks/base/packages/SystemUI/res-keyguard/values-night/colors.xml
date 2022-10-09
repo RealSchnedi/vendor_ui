@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="kg_emergency_button">@*android:color/surface_dark_alpha_60</color>
+
+</resources>
