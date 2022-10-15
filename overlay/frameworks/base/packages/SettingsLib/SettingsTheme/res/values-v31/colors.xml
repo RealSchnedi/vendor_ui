@@ -7,4 +7,6 @@
     <color name="settingslib_background_device_default_light">@*android:color/surface_highlight_light</color>
     <color name="settingslib_primary_device_default_settings_light">@*android:color/surface_highlight_light</color>
 
+    <color name="settingslib_progress_horizontal">@*android:color/accent_alpha_15</color>
+
 </resources>
