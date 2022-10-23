@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="spinner_bg">@*android:color/surface_dark_alpha_60</color>
+    <color name="spinner_dropdown_bg">@*android:color/system_neutral1_800</color>
+
+</resources>
