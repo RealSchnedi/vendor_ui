@@ -29,4 +29,6 @@
     <color name="system_neutral2_900">#151515</color>
     <color name="system_neutral2_1000">#000000</color>
 
+    <color name="seekbar_track_color">@color/accent_alpha_45</color>
+
 </resources>
