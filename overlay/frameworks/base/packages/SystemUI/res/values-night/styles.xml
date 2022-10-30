@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="TextAppearance.InternetDialog.Active">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+
+    <style name="TextAppearance.InternetDialog.Secondary.Active">
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+
+</resources>
