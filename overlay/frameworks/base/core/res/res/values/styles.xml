@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="WindowTitle">
+        <item name="shadowColor">@color/transparent</item>
+        <item name="shadowRadius">0.0</item>
+    </style>
+
+    <style name="Widget.KeyboardView" parent="Widget">
+        <item name="shadowColor">@color/transparent</item>
+        <item name="shadowRadius">0.0</item>
+    </style>
+
+    <style name="TextAppearance.SlidingTabNormal" parent="TextAppearance.Medium">
+        <item name="shadowDx">0.0</item>
+        <item name="shadowDy">0.0</item>
+        <item name="shadowRadius">0.0</item>
+    </style>
+
+    <style name="Widget.Magnifier">
+        <item name="magnifierElevation">0dp</item>
+    </style>
+
+    <style name="AutofillDatasetPicker">
+        <item name="elevation">0dp</item>
+    </style>
+
+</resources>

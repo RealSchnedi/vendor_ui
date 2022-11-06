@@ -29,4 +29,11 @@
     <dimen name="settingslib_switch_bar_radius">@*android:dimen/config_dialogCornerRadius</dimen>
     <dimen name="settingslib_switch_track_radius">@*android:dimen/config_dialogCornerRadius</dimen>
 
+    <dimen name="global_actions_translate">0dp</dimen>
+    <dimen name="keyguard_shadow_radius">0</dimen>
+    <dimen name="qs_panel_elevation">0dp</dimen>
+    <dimen name="global_actions_grid_container_shadow_offset">0dp</dimen>
+    <dimen name="global_actions_grid_container_negative_shadow_offset">0dp</dimen>
+    <dimen name="accessibility_floating_menu_elevation">0dp</dimen>
+
 </resources>

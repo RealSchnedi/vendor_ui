@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.Material.AutoCompleteTextView" parent="Widget.AutoCompleteTextView">
+        <item name="popupElevation">0dp</item>
+    </style>
+
+    <style name="Widget.Material.PopupWindow.ActionMode">
+        <item name="popupElevation">0dp</item>
+    </style>
+
+    <style name="Widget.Material.Spinner" parent="Widget.Spinner.DropDown">
+        <item name="popupElevation">0dp</item>
+    </style>
+
+    <style name="Widget.Material.ListPopupWindow">
+        <item name="popupElevation">0dp</item>
+    </style>
+
+</resources>

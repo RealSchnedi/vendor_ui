@@ -10,4 +10,11 @@
 
     <dimen name="toast_elevation">0dp</dimen>
 
+    <dimen name="subtitle_shadow_radius">0dp</dimen>
+    <dimen name="subtitle_shadow_offset">0dp</dimen>
+    <dimen name="default_magnifier_elevation">0dp</dimen>
+    <dimen name="autofill_elevation">0dp</dimen>
+    <dimen name="chooser_header_scroll_elevation">0dp</dimen>
+    <dimen name="resolver_elevation">0dp</dimen>
+
 </resources>

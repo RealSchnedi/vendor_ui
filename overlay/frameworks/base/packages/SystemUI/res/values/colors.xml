@@ -3,4 +3,6 @@
 
     <color name="volume_row_seekbar">@*android:color/accent_alpha_15</color>
 
+    <color name="keyguard_shadow_color">@*android:color/transparent</color>
+
 </resources>
