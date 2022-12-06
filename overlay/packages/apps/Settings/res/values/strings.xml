@@ -3,4 +3,8 @@
 
     <string name="peak_refresh_rate_summary">Automatically raises the refresh rate from 60 to 120 Hz for some content. Increases battery usage</string>
 
+    <string name="account_type" translatable="false">com.google</string>
+    <string name="my_device_info_account_preference_title">Google Account</string>
+    <string name="search_bar_account_avatar_content_description">Profile picture, double tap to open Google Account</string>
+
 </resources>

@@ -10,4 +10,6 @@
 
     <dimen name="search_bar_text_size">16sp</dimen>
 
+    <dimen name="homepage_title_margin_top">104dp</dimen>
+
 </resources>
