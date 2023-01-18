@@ -8,4 +8,6 @@
     <dimen name="text_edit_floating_toolbar_elevation">0dp</dimen>
     <dimen name="button_elevation_material">0dp</dimen>
 
+    <dimen name="action_bar_content_inset_material">26dp</dimen>
+
 </resources>
