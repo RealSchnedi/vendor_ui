@@ -21,4 +21,14 @@
         <item name="android:layout_marginHorizontal">?android:attr/listPreferredItemPaddingStart</item>
     </style>
 
+    <style name="AccessibilityTextReadingPreviewTitle"
+        parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title" >
+        <item name="android:textSize">0sp</item>
+    </style>
+
+    <style name="PreviewPagerPageIndicator">
+        <item name="pageIndicatorColor">@color/page_indicator_color</item>
+        <item name="currentPageIndicatorColor">?android:attr/colorAccent</item>
+    </style>
+
 </resources>
