@@ -16,4 +16,6 @@
 
     <color name="dismiss_all_bg">@*android:color/surface_dark_alpha_60</color>
 
+    <color name="fp_bg">@*android:color/surface_dark_alpha_60</color>
+
 </resources>

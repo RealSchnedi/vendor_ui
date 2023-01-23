@@ -26,4 +26,6 @@
     <color name="qs_accent_alpha">@*android:color/accent_alpha_45</color>
     <color name="qs_surface_dark_alpha">@*android:color/surface_dark_alpha_30</color>
 
+    <color name="fp_bg">@*android:color/accent_alpha_15</color>
+
 </resources>
