@@ -18,4 +18,6 @@
 
     <color name="fp_bg">@*android:color/surface_dark_alpha_60</color>
 
+    <color name="qs_dialog_btn_filled">@*android:color/surface_dark_alpha_60</color>
+
 </resources>

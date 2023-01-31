@@ -43,4 +43,9 @@
         <item name="offStateColor">@*android:color/surface_dark_alpha_45</item>
     </style>
 
+    <style name="Widget.Dialog.Button">
+        <item name="android:buttonCornerRadius">@*android:dimen/config_dialogCornerRadius</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+
 </resources>

@@ -28,4 +28,6 @@
 
     <color name="fp_bg">@*android:color/accent_alpha_15</color>
 
+    <color name="qs_dialog_btn_filled">@*android:color/accent_alpha_15</color>
+
 </resources>
