@@ -31,4 +31,6 @@
 
     <color name="seekbar_track_color">@color/accent_alpha_45</color>
 
+    <color name="btn_colored_bg">@color/accent_alpha_15</color>
+
 </resources>

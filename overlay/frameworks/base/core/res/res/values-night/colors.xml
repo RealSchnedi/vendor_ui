@@ -3,4 +3,6 @@
 
     <color name="seekbar_track_color">@color/surface_dark</color>
 
+    <color name="btn_colored_bg">@color/surface_dark_alpha_60</color>
+
 </resources>
