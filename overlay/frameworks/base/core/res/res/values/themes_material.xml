@@ -9,4 +9,14 @@
         <item name="windowElevation">0dp</item>
     </style>
 
+    <style name="Theme.Material">
+        <item name="textColorLink">@color/accent_alpha_60</item>
+        <item name="textColorLinkInverse">@color/accent_alpha_60</item>
+    </style>
+
+    <style name="Theme.Material.Light" parent="Theme.Light">
+        <item name="textColorLink">@color/accent_alpha_75</item>
+        <item name="textColorLinkInverse">@color/accent_alpha_75</item>
+    </style>
+
 </resources>
