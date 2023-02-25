@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Banner.Preference.SettingsLib"
+        parent="android:Widget.DeviceDefault">
+        <item name="android:layout_marginStart">?android:attr/listPreferredItemPaddingStart</item>
+        <item name="android:layout_marginEnd">?android:attr/listPreferredItemPaddingEnd</item>
+    </style>
+
+    <style name="Banner.Title.SettingsLib"
+        parent="@android:style/TextAppearance.Material.Subhead">
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+</resources>
