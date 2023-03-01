@@ -10,4 +10,6 @@
 
     <dimen name="action_bar_content_inset_material">26dp</dimen>
 
+    <dimen name="progress_bar_height_material">1.5dp</dimen>
+
 </resources>
