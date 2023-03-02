@@ -12,11 +12,19 @@
     <style name="Theme.Material">
         <item name="textColorLink">@color/accent_alpha_60</item>
         <item name="textColorLinkInverse">@color/accent_alpha_60</item>
+
+        <item name="scrollbarFadeDuration">0</item>
+        <item name="scrollbarDefaultDelayBeforeFade">0</item>
+        <item name="scrollbarSize">0dp</item>
     </style>
 
     <style name="Theme.Material.Light" parent="Theme.Light">
         <item name="textColorLink">@color/accent_alpha_75</item>
         <item name="textColorLinkInverse">@color/accent_alpha_75</item>
+
+        <item name="scrollbarFadeDuration">0</item>
+        <item name="scrollbarDefaultDelayBeforeFade">0</item>
+        <item name="scrollbarSize">0dp</item>
     </style>
 
 </resources>

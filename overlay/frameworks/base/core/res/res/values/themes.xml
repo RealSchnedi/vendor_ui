@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme">
+        <item name="scrollbarFadeDuration">0</item>
+        <item name="scrollbarDefaultDelayBeforeFade">0</item>
+        <item name="scrollbarSize">0dp</item>
+    </style>
+
+</resources>
