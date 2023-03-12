@@ -36,4 +36,7 @@
     <dimen name="global_actions_grid_container_negative_shadow_offset">0dp</dimen>
     <dimen name="accessibility_floating_menu_elevation">0dp</dimen>
 
+    <dimen name="notification_side_paddings">@*android:dimen/action_bar_content_inset_material</dimen>
+    <dimen name="qs_media_padding">@*android:dimen/action_bar_content_inset_material</dimen>
+
 </resources>
