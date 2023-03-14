@@ -24,4 +24,6 @@
     <color name="message_icon_text_outgoing">@*android:color/text_color_primary_device_default_light</color>
     <color name="message_icon_color">@*android:color/text_color_primary_device_default_light</color>
 
+    <color name="volume_dialog_button_background_solid">@*android:color/accent_alpha_15</color>
+
 </resources>

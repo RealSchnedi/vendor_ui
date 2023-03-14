@@ -15,4 +15,6 @@
     <color name="text_reading_preview_bg">@*android:color/surface_dark_alpha_60</color>
     <color name="page_indicator_color">@*android:color/system_neutral1_700</color>
 
+    <color name="volume_dialog_button_background_solid">@*android:color/surface_dark_alpha_60</color>
+
 </resources>

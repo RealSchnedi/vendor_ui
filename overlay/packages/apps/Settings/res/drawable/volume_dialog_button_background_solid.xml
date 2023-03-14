@@ -3,10 +3,9 @@
        xmlns:androidprv="http://schemas.android.com/apk/prv/res/android"
        android:insetTop="6dp"
        android:insetBottom="6dp">
-    <shape
-           android:shape="rectangle">
+    <shape android:shape="rectangle">
         <stroke
-            android:color="?android:attr/colorAccent"
+            android:color="@android:color/transparent"
             android:width="1.5dp"/>
         <corners android:radius="@*android:dimen/config_dialogCornerRadius"/>
         <padding
@@ -14,6 +13,6 @@
             android:right="16dp"
             android:top="8dp"
             android:bottom="8dp" />
-        <solid android:color="@*android:color/transparent" />
+        <solid android:color="@color/volume_dialog_button_background_solid" />
     </shape>
 </inset>
